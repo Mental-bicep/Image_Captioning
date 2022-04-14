@@ -1,2 +1,2 @@
 # IMAGE CAPTIONING
-![](images/img1.png)
+<img src="Images/img1.png" width=100%>
